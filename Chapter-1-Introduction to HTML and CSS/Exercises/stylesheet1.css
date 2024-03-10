@@ -1,12 +1,45 @@
-.a1{
-    background-color:darkgray;
+body 
+{
+  background: grey url("bg15.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-.a2{
-    color: red;
+td 
+{
+  padding: 0 20px;
 }
-.a3{
-    background-color: bisque;
+
+img
+{
+	width:370px;
+	height:370px;
+	border-radius:60%;
+	padding-bottom: 20px;
+
 }
-.a4{
-    background-color:lightgreen;
+ul
+{
+	margin-left: 150px;
+	color: white;
+}
+table
+{
+	color: white;
+}
+dl
+{
+	margin-left: 150px;
+	color: white;
+	margin-right: 65px;
+}
+dt
+{
+	color:orange;
+	margin-bottom: 5px;
+}
+.rp
+{
+	background-color: #996600;
 }
