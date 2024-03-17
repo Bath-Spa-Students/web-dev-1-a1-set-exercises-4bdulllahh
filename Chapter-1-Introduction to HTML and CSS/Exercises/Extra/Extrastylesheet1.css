@@ -31,11 +31,13 @@ p {
     padding: 10px;
     margin: 10px 0;
 }
-.heading-box {
-  background-color:white ; /* Change this to your desired color */
-  padding: 30px;
-  margin-bottom: 30px;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
+.headings {
+    border: 1px solid #ccc; /* Border style */
+    padding: 20px; /* Padding around the content */
+    width: 300px; /* Adjust width as needed */
+    background-color: #f9f9f9; /* Background color */
+    margin-top: 0; /* Remove default margin for h1 */
+    margin-top: 5px; /* Adjust spacing between heading and guide */
+}
+  
   
