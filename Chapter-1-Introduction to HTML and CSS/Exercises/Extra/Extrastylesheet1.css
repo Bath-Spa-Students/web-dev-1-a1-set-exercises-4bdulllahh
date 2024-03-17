@@ -5,14 +5,7 @@ body {
   background-color: aqua;
 }
 
-@keyframes fadein {
-  from {
-      opacity: 0
-  }
-  to {
-      opacity: 1;
-  }
-}
+
 
 progress {
   background-color: green;
