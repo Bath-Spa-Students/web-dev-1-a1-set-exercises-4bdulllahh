@@ -12,12 +12,9 @@ body {
 }
 .container {
     position: relative;
-    /* Indicates how an element is to be positioned, in this case, Relatively. */
     width: 100%;
     height: auto;
-    /* Allows an element's height to be determined by the content within it. */
     overflow: hidden;
-    /* Defines what happens when content overflows an element's box to the brim. */
 }
 
 /* Styling for a background image element */
