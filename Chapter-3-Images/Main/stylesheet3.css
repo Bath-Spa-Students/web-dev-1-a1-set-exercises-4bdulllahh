@@ -1,11 +1,10 @@
 * {
     box-sizing: border-box;
     padding: 0;
-    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    
+}
 
-
+/* Setting styles for the body element */
 body {
     margin: 0;
     /* Used to change the margin to 0 */
