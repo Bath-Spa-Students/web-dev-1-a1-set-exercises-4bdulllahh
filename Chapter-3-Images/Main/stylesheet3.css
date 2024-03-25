@@ -37,25 +37,15 @@ body {
     background-color: rgba(0, 0, 0, 0.4);
     z-index: -1;
 }
-
-/* Styling for h1 elements within body */
 body h1 {
     margin: 0px 235px;
-    /* Used to change the margin to 0px on the top and bottom, and 235px on the left and right */
     font-size: 100px;
-    /* Changes the font size. */
     border: 5px solid yellow;
-    /* Creates a border surrounding the element. */
     padding-left: 20%;
-    /* Used to change an element's inner padding to 20% */
     padding-right: 20%;
-    /* Used to change an element's inner padding to 20% */
     background-color: palevioletred;
-    /* Adjusts an element's background color to palevioletred. */
     box-shadow: 8px 8px 8px violet;
-    /* Using this produces a purple shadow surrounding the border of the element. */
     color: white;
-    /* Used to set the text's color. */
 }
 
 /* Styling for figcaption elements */
