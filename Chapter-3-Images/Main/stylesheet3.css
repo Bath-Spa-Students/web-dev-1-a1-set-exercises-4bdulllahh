@@ -5,18 +5,11 @@
 }
 body {
     margin: 0;
-    /* Used to change the margin to 0 */
     padding: 0;
-    /* Used to change the entire page's inner padding to 0 */
     width: 100%;
-    /* Taking full width of the viewport */
     height: 100%;
-    /* Taking full height of the viewport */
-    text-align: center;
-    /* Adjusts the text's horizontal alignment to center */
+    text-align: center;    
 }
-
-/* Styling for a container element */
 .container {
     position: relative;
     /* Indicates how an element is to be positioned, in this case, Relatively. */
