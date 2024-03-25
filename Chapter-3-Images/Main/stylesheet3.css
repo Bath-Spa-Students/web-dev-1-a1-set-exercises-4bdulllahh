@@ -1,45 +1,9 @@
-/* ---Glossary--- */
-
-/* Each property has been defined in the glossary for ease of access for the reader. (I also used it to properly reference my comments.) */
-
-/* ---Box Model--- */
-/* box-sizing: This defines how an element's height and width are assigned. */
-
-/* ---Margin and Padding--- */
-/* margin: Used to change the area surrounding an element. */
-/* padding: Used to change an element's inner padding. */
-
-/* ---Position Styling--- */
-/* position: Indicates how an element is to be positioned. */
-/* Z-index: Using z-index will determine the order of how a positioned element stacks. */
-
-/* ---Text Related Styling--- */
-/* font-family: Specifies which font or fonts to be used. */
-/* font-size: Changes the font size. */
-/* box-shadow: Using this produces shadows surrounding the border of the element. */
-/* color: Used to sets the text's color. */
-/* background-color: Adjusts an element's background color. */
-
-/* ---Flexbox Styling--- */
-/* justify-content: This sets flex elements to align with the flex container's main axis. */
-/* align-items: This aligns flex items with the flex container's cross axis. */
-/* flex-wrap: Indicates whether or not flex objects need to be wrapped. */
-
-/* ---Transitions and Transformations--- */
-/* transition: This indicates how CSS properties will transition. */
-/* filter: Applies graphical effects like blur, grayscale, etc. */
-
-/* Applying box-sizing globally to include padding and border in element's total width and height */
 * {
     box-sizing: border-box;
-    /* box-sizing is set to border-box so that padding and border are included in the element's total width and height. */
-    margin: 0;
-    /* Margin is set to 0 to remove any default margin. */
     padding: 0;
-    /* Padding is set to 0 to remove any default padding. */
+    
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* Font-family is set to provide a fallback font for different elements. */
-}
+    
 
 /* Setting styles for the body element */
 body {
