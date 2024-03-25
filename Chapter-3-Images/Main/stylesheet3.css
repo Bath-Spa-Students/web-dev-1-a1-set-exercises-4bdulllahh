@@ -48,25 +48,16 @@ body h1 {
     color: white;
 }
 
-/* Styling for figcaption elements */
 figcaption {
     position: relative;
-    /* Indicates how an element is to be positioned, in this case, Relatively. */
     margin-left: 20%;
-    /* Used to change the margin to 20% on the left */
     margin-right: 20%;
-    /* Used to change the margin to 20% on the right */
     font-size: 32px;
-    /* Changes the font size to 32px. */
     font-weight: normal;
-    /* Specifies a text's character thickness. */
     border: 5px solid palevioletred;
-    /* Creates a palevioletred border surrounding the element. */
     background-color: palegoldenrod;
-    /* Adjusts an element's background color to palegoldenrod. */
 }
 
-/* Styling for image elements within .Images container */
 .Images .Image1,
 .Images .Image2,
 .Images .Image3 {
