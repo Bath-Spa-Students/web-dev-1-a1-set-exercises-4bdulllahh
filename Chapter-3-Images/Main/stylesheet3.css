@@ -28,23 +28,14 @@ body {
     background-repeat: no-repeat;
     z-index: -2;
 }
-
-/* Styling for a semi-transparent overlay layer */
 .dark-layer {
     position: absolute;
-    /* Indicates how an element is to be positioned, in this case, Absolutely. */
     top: 0;
-    /* Distance between the top edge of the positioned element and the top edge of its containing block. */
     left: 0;
-    /* Distance between the left edge of the positioned element and the left edge of its containing block. */
     width: 100%;
-    /* Sets the width of the element to 100%. */
     height: 100%;
-    /* Sets the height of the element to 100%. */
     background-color: rgba(0, 0, 0, 0.4);
-    /* Adjusts an element's background color. */
     z-index: -1;
-    /* Using z-index will determine the order of how a positioned element stacks. */
 }
 
 /* Styling for h1 elements within body */
