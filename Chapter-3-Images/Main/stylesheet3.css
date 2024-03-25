@@ -42,8 +42,8 @@ figcaption {
     margin-right: 20%;
     font-size: 32px;
     font-weight: normal;
-    border: 5px solid rgb(216, 112, 112);
-    background-color: palegoldenrod;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 .Images .Image1,
