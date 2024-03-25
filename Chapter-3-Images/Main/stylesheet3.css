@@ -81,19 +81,3 @@ figcaption {
 .Images .Image3:hover {
     filter: invert();
 }
-
-/* Styling for footer element */
-footer {
-    margin-top: 3%;
-    /* Used to change the margin to 3% on the top */
-    font-size: 24px;
-    /* Changes the font size. */
-    font-weight: normal;
-    /* Specifies a text's character thickness. */
-    background-color: purple;
-    /* Adjusts an element's background color. */
-    padding: 5px;
-    /* Used to change an element's inner padding to 5px */
-    color: white;
-    /* Used to sets the text's color. */
-}
