@@ -34,13 +34,9 @@ header h1 {
 
     /* I added a 25 pixel top margin. */
     margin-top: 25px;
-
-    /* I added a 30 pixel bottom margin. */
     margin-bottom: 30px;
 }
 
-
-/* The Navigation Menu */
 nav {
     background-color: #17072b;
     font-size: 30px;
