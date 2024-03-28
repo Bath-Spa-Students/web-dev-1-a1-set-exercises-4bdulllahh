@@ -17,10 +17,7 @@ header h1 {
     /* As per the requirement, I set the body font to "Tahoma". */
     font-family: Tahoma;
 
-    /* I set the color of the text to white or #FFFFFF. */
     color: #FFFFFF;
-
-    /* I set the font size of the "h1" 60 pixels. */
     font-size: 60px;
     text-align: center;
     text-decoration: underline;
