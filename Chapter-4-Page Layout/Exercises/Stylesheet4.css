@@ -76,7 +76,7 @@ aside {
 
 aside h2 {
     font-size: 28px;
-    /* I set the font to Tahoma. */
+    /*Set the font to Tahoma because it is said in the brief */
     font-family: Tahoma;
     text-decoration: underline;
     text-underline-offset: 6px;
