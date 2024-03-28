@@ -44,10 +44,7 @@ header h1 {
 nav {
     /* As per the requirement, I set the background-color of the Navigation Menu to #17072b. */
     background-color: #17072b;
-
-    /* I set the font-size of the text to 30 pixels. */
     font-size: 30px;
-
     text-align: center;
     word-spacing: 25px;
     padding-bottom: 25px;
