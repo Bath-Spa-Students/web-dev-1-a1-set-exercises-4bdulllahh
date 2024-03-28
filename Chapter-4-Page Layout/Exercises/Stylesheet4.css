@@ -22,8 +22,6 @@ header h1 {
 
     /* I set the font size of the "h1" 60 pixels. */
     font-size: 60px;
-
-    /* I center-aligned the text. */
     text-align: center;
     text-decoration: underline;
     text-underline-offset: 7px;
