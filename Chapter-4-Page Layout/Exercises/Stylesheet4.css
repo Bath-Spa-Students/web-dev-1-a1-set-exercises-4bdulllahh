@@ -4,9 +4,7 @@ body {
     font-size: 400
 }
 
-/* Logo and Heading */
 header {
-    /* As per the requirement, I set the background-color of the header to #17072b. */
     background-color: #17072b;
     padding: 10px;
 }
