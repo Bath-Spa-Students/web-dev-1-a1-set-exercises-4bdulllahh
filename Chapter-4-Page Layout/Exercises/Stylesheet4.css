@@ -8,8 +8,6 @@ body {
 header {
     /* As per the requirement, I set the background-color of the header to #17072b. */
     background-color: #17072b;
-
-    /* I set a 10 pixel padding around the content. */
     padding: 10px;
 }
 
