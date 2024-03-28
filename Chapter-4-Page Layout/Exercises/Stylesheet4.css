@@ -69,7 +69,7 @@ section img {
 aside {
     padding: 20px;
     margin-top: 15px;
-    background-color: #172d67;
+    background-color: #172d67;/*Use colour picker to pick accurate colours*/
     color: #FFFFFF;
     height: 491px;
 }
