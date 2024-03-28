@@ -31,8 +31,6 @@ header h1 {
 
     /* I set the offset for the underline to 7 pixels. */
     text-underline-offset: 7px;
-
-    /* I added a 25 pixel top margin. */
     margin-top: 25px;
     margin-bottom: 30px;
 }
