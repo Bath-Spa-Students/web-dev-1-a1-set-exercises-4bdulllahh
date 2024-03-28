@@ -8,6 +8,14 @@ header {
     padding: 10px;
 }
 
+nav {
+    background-color: #17072b;
+    font-size: 30px;
+    text-align: center;
+    word-spacing: 25px;
+    padding-bottom: 25px;
+}
+
 header h1 {
     font-family: Tahoma;
     color: #FFFFFF;
@@ -17,14 +25,6 @@ header h1 {
     text-underline-offset: 7px;
     margin-top: 25px;
     margin-bottom: 30px;
-}
-
-nav {
-    background-color: #17072b;
-    font-size: 30px;
-    text-align: center;
-    word-spacing: 25px;
-    padding-bottom: 25px;
 }
 nav a {
     text-decoration: none;
